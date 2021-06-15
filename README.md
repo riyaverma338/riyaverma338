@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riya!</h1>
 <h3 align="center">A Sophomore pursuing B.Tech in Computer Science 👩‍💻</h3>
-<img align="right" alt="Coding" height="500" width="500" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
+<!--dribbleimage-->
+<img align="right" alt="Coding" height="500" width="500" src="https://cdn.dribbble.com/users/1485589/screenshots/15160525/media/87774bbdade3a5f39cadb0ddded0a67b.gif">
 
 - 🤝 I’m looking for opportunities **to grow as a Web Developer**
 
